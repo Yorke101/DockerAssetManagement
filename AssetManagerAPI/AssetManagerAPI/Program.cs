@@ -24,8 +24,6 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 var app = builder.Build();
 
-// Use CORS before anything else
-
 // Use CORS BEFORE anything else
 app.UseCors("AllowAll");
 app.UseCors("AllowReactApp");
