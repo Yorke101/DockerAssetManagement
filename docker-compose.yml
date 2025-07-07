@@ -1,0 +1,31 @@
+version: '3.8'
+services:
+  api:
+    build:
+      context: ./AssetManagerAPI
+      dockerfile: Dockerfile
+    ports:
+      - "7040:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=ULTRA_INSTINCT\\SQLEXPRESS;Database=AssetManagerDB;Trusted_Connection=True;TrustServerCertificate=True;
+    # Uncomment and configure if you use a database
+    depends_on:
+      - db
+
+  frontend:
+    build:
+      context: ./asset-manager-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"

@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\models\\assetassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\models\\assetassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetList.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetDetail.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetForm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\dto\\createassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\dto\\createassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|c:\\users\\dylan\\projects\\assetmanagerapi\\assetmanagerapi\\migrations\\20250704162905_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F2051C-4463-4851-A973-C70105F8C00A}|AssetManagerAPI\\AssetManagerAPI.csproj|solutionrelative:assetmanagerapi\\migrations\\20250704162905_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AssetManagerAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:01:25.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\appsettings.json",
+              "RelativeToolTip": "AssetManagerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T16:24:12.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Models\\AssetAssignment.cs",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\Models\\AssetAssignment.cs",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Models\\AssetAssignment.cs",
+              "RelativeToolTip": "AssetManagerAPI\\Models\\AssetAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:21:15.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "AssetManagerAPI\\Controllers\\AssetsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:31:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "AssetManagerAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:20:22.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssetList.js",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetList.js",
+              "RelativeDocumentMoniker": "..\\asset-manager-frontend\\src\\components\\AssetList.js",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetList.js",
+              "RelativeToolTip": "..\\asset-manager-frontend\\src\\components\\AssetList.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T18:02:03.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Models\\Asset.cs",
+              "RelativeToolTip": "AssetManagerAPI\\Models\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:20:50.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "..\\asset-manager-frontend\\src\\services\\api.js",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\services\\api.js",
+              "RelativeToolTip": "..\\asset-manager-frontend\\src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T17:55:49.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssetForm.js",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetForm.js",
+              "RelativeDocumentMoniker": "..\\asset-manager-frontend\\src\\components\\AssetForm.js",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetForm.js",
+              "RelativeToolTip": "..\\asset-manager-frontend\\src\\components\\AssetForm.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T18:03:02.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssetDetail.js",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetDetail.js",
+              "RelativeDocumentMoniker": "..\\asset-manager-frontend\\src\\components\\AssetDetail.js",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\components\\AssetDetail.js",
+              "RelativeToolTip": "..\\asset-manager-frontend\\src\\components\\AssetDetail.js",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAUwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T18:04:49.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\App.js",
+              "RelativeDocumentMoniker": "..\\asset-manager-frontend\\src\\App.js",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\asset-manager-frontend\\src\\App.js",
+              "RelativeToolTip": "..\\asset-manager-frontend\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-04T18:03:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AssetManagerAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T18:32:25.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250704162905_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Migrations\\20250704162905_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\Migrations\\20250704162905_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\Migrations\\20250704162905_InitialCreate.cs",
+              "RelativeToolTip": "AssetManagerAPI\\Migrations\\20250704162905_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:29:05.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAssetDto.cs",
+              "DocumentMoniker": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\DTO\\CreateAssetDto.cs",
+              "RelativeDocumentMoniker": "AssetManagerAPI\\DTO\\CreateAssetDto.cs",
+              "ToolTip": "C:\\Users\\dylan\\Projects\\AssetManagerAPI\\AssetManagerAPI\\DTO\\CreateAssetDto.cs",
+              "RelativeToolTip": "AssetManagerAPI\\DTO\\CreateAssetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:45:35.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
